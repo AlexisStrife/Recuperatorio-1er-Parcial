@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1531438958 source:d:\regina alexis\regina alexis - recuperatorio 1er parcial\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"input.h"
+
+1525733342 d:\regina alexis\regina alexis - recuperatorio 1er parcial\input.h
+
+1531439044 source:d:\regina alexis\regina alexis - recuperatorio 1er parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"numeroNatural.h"
+	"input.h"
+
+1531438611 d:\regina alexis\regina alexis - recuperatorio 1er parcial\numeronatural.h
+
+1531438799 source:d:\regina alexis\regina alexis - recuperatorio 1er parcial\numeronatural.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"numeroNatural.h"
+	"input.h"
+
